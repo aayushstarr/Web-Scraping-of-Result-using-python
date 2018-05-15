@@ -29,8 +29,8 @@
 
 
 #### Advantage:
-* For achieving the above task manually, it will take a minimum of 5 minutes for **_each USN_**, but our program can complete the entire task of fetching **_all USN_** in just 5 minutes or a little more.
+* Helps the user to avoid doing boring stuffs by automating the work.
 
-* Saving the time of organization by automating the boring stuffs with python.
+* Saving the time of organization.
 
 
