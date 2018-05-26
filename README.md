@@ -3,9 +3,9 @@
 ###### The main objective of this project is to automate the boring work of creating an excel sheet of marks details of students in college and schools.
 
 ---
->> For video of the project refer [Video-1](https://drive.google.com/open?id=1yo2dZo-jAQvurWFNfKK3Ta-hzFiZ6Nyf)
+>> For video of the project refer [Video-1](https://youtu.be/gC4fwHPhmc0)
 
->> Also [Video-2](https://drive.google.com/open?id=1xLyKCT1A5COloydrRiqLt6esjmQrsvPC)
+>> Also [Video-2](https://youtu.be/EjZqmM2J6gU)
 ---
 
 > Python2.7 is used to achieve this objective.
